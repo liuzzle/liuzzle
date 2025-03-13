@@ -1,6 +1,6 @@
 - 👋 Hi, I’m liz
-- 👀 I’m interested in NLP, machine learning, data science and interaction design.
-- 🌱 I’m currently studying computational linguistics & people-oriented computing at the university of zurich
+- 👀 I’m interested in NLP, machine learning, data science, interaction design and related fields.
+- 🌱 I’m currently studying computational linguistics & people-oriented computing at the University of Zurich
 - 💞️ I’m looking to collaborate on projects, NLP, ML, or UI/UX-related
   
 <!---
